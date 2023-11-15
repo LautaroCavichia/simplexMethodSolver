@@ -1,0 +1,20 @@
+# ninja log v5
+1	504	1700063012304080064	CMakeFiles/simplexMethod.dir/variable.cpp.o	f7a4ca5d40e867e2
+1009	1103	1700063411727546815	simplexMethod	983cba82a4933787
+1	1033	1700063012827833348	CMakeFiles/simplexMethod.dir/equation.cpp.o	774fdec68f06a42e
+3	1009	1700063411630347530	CMakeFiles/simplexMethod.dir/main.cpp.o	6229300e42ccd6d5
+4	898	1700063411516126969	CMakeFiles/simplexMethod.dir/Dictionary.cpp.o	4eafe666bc40768f
+4	320	1700063712507903055	CMakeFiles/simplexMethod.dir/Utils.cpp.o	82efe7ea951370e0
+4	619	1700063712805383845	CMakeFiles/simplexMethod.dir/Dictionary.cpp.o	4eafe666bc40768f
+3	693	1700063712879989330	CMakeFiles/simplexMethod.dir/main.cpp.o	6229300e42ccd6d5
+4	301	1700063879580729447	CMakeFiles/simplexMethod.dir/Utils.cpp.o	82efe7ea951370e0
+4	607	1700063879887183366	CMakeFiles/simplexMethod.dir/Dictionary.cpp.o	4eafe666bc40768f
+3	684	1700063879965015793	CMakeFiles/simplexMethod.dir/main.cpp.o	6229300e42ccd6d5
+685	754	1700063880036795996	simplexMethod	349fa15039209cff
+15	51	1700064125440673450	CMakeFiles/simplexMethod.dir/Utils.cpp.o	82efe7ea951370e0
+15	376	1700064125763763360	CMakeFiles/simplexMethod.dir/Dictionary.cpp.o	4eafe666bc40768f
+14	438	1700064125826237523	CMakeFiles/simplexMethod.dir/main.cpp.o	6229300e42ccd6d5
+438	487	1700064125878030129	simplexMethod	349fa15039209cff
+4	682	1700064494539012964	CMakeFiles/simplexMethod.dir/Dictionary.cpp.o	4eafe666bc40768f
+3	760	1700064494617849414	CMakeFiles/simplexMethod.dir/main.cpp.o	6229300e42ccd6d5
+760	830	1700064494689959194	simplexMethod	349fa15039209cff
